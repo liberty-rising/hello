@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+New beginnings.
+
+Liberty's rising.
